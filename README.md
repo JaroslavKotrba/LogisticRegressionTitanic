@@ -1,3 +1,3 @@
 # LogisticRegressionTitanic
 
-R script: Survive on the Titanic
+R SCRIPT: Survive on the Titanic
